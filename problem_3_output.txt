@@ -1,0 +1,7 @@
+Age_group category      count
+0-10    child           1
+10-20   adscolent       2
+20-30   adult           2
+30-40   adult           2
+40-50   adult           2
+50+     older           2
